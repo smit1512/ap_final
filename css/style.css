@@ -70,7 +70,7 @@ section.banner-w3ls .logo-w3ls a {
 section.banner-w3ls .logo-w3ls a h1 { 
 	font-size:40px;
 	font-weight:bold;
-	color:#fff;
+	color:#fb1c1c;
 	text-transform:uppercase;
 	font-family: 'Poiret One', cursive;
 }
@@ -176,7 +176,7 @@ section.banner-w3ls button.btn.btn-default {
     margin-top: 410px!important;
 }
 .pogoSlider-slide-element h3 {
-    color: #fff!important;
+    color: #0a0b0b !important;
     font-weight:normal;
     font-size: 30px;
 	text-align:left;
