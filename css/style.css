@@ -63,9 +63,14 @@ section.banner-w3ls .logo-w3ls {
     z-index: 999;
     top: 60px;
     left: 270px;
+    display: inline-flex;
 }
 section.banner-w3ls .logo-w3ls a {
 	text-decoration:none;
+} 
+section.banner-w3ls .logo-w3ls img {
+	width: 60px;
+	margin-left: 20px;
 } 
 section.banner-w3ls .logo-w3ls a h1 { 
 	font-size:40px;
