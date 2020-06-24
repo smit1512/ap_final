@@ -1694,6 +1694,9 @@ section.banner-w3ls .logo-w3ls {
     left: 70px;
 	top:35px;
 }	
+section.banner-w3ls .logo-w3ls img {
+    width: 50px;
+}
 section.banner-w3ls button#trigger-overlay {
     right: 60px;
     top: 35px;
@@ -1785,6 +1788,9 @@ section.banner-w3ls button.btn.btn-default {
 @media (max-width: 667px) {
 section.banner-w3ls .logo-w3ls a h1 {
     font-size: 25px;
+}
+section.banner-w3ls .logo-w3ls img {
+    width: 45px;
 }
 .pogoSlider-slide-element p {
 	display:none;
@@ -1934,6 +1940,9 @@ ul.contact-w3ls {
 section.banner-w3ls .logo-w3ls {
     left: 35px;
     top: 20px;
+}
+section.banner-w3ls .logo-w3ls img {
+    width: 35px;
 }
 section.banner-w3ls button#trigger-overlay {
     right: 30px;
@@ -2116,6 +2125,9 @@ section.service-w3l h3.text-center:before, section.service-w3l h3.text-center:af
 }	
 section.banner-w3ls .logo-w3ls a h1 {
     font-size: 17px;
+}
+section.banner-w3ls .logo-w3ls img {
+    width: 30px;
 }
 section.banner-w3ls .logo-w3ls {
     left: 20px;
