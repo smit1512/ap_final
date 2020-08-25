@@ -70,7 +70,7 @@ section.banner-w3ls .logo-w3ls a {
 } 
 section.banner-w3ls .logo-w3ls img {
 	width: 60px;
-	margin-left: 20px;
+	margin-right: 20px;
 } 
 section.banner-w3ls .logo-w3ls a h1 { 
 	font-size:40px;
@@ -181,7 +181,7 @@ section.banner-w3ls button.btn.btn-default {
     margin-top: 410px!important;
 }
 .pogoSlider-slide-element h3 {
-    color: #0a0b0b !important;
+    color: darkcyan !important;
     font-weight:normal;
     font-size: 30px;
 	text-align:left;
